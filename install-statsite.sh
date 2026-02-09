@@ -16,7 +16,7 @@ apt-get install -yq git python-pip
 
 useradd statsite -m -d /var/lib/statsite
 
-pip install --egg SCons
+pip install scons
 
 git clone https://github.com/armon/statsite.git /opt/statsite
 cd /opt/statsite

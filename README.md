@@ -18,6 +18,7 @@ Currently, the following stacks can be installed.
 - [Fluentd](http://fluentd.org/)
 - [OpenTSDB](http://opentsdb.net/) and [TCollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html)
 - [Cachet](https://cachethq.io/)
+- [Prometheus](https://prometheus.io/)
 
 This repository started off from the ideas on my [Monitoring Everything](http://ianunruh.com/2014/05/monitor-everything.html) blog series.
 

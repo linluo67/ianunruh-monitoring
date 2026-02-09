@@ -41,3 +41,5 @@ $BASE_PATH/install-statsd.sh
 
 $BASE_PATH/install-mysql.sh
 $BASE_PATH/install-cachet.sh
+
+$BASE_PATH/install-prometheus.sh

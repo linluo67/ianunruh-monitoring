@@ -15,3 +15,4 @@ basicConstraints = CA:TRUE
 [alt_names]
 DNS.1 = monitoring
 IP.1 = 192.168.12.10
+IP.2 = 192.168.12.11

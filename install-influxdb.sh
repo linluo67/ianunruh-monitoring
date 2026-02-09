@@ -14,7 +14,7 @@ source env.sh
 
 cd /tmp
 
-curl -sOL http://s3.amazonaws.com/influxdb/influxdb_latest_amd64.deb
+curl -sOL https://dl.influxdata.com/influxdb/releases/influxdb_1.8.10_amd64.deb
 dpkg -i influxdb_latest_amd64.deb
 
 service influxdb start
